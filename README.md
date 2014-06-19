@@ -1,3 +1,6 @@
+Cash Register Kata
+------------------
+
 Register is a class that represents the cash register at a
 grocery store. It can be used to ring up a number of items and then display the
 running total. Here are the items the store sells and their prices:
@@ -38,7 +41,7 @@ To Submit Code
 2. Make your changes and check them in locally
 3. Create a patchfile using `format-patch`
 
-    git format-patch origin/master --stdout > submission.patch
+    `git format-patch origin/master --stdout > submission.patch`
 
 4. Email us the patch file
 
