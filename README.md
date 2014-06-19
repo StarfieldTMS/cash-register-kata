@@ -30,3 +30,16 @@ To install the dependencies:
 To run the tests:
 
     rake
+
+To Submit Code
+--------------
+
+1. Clone the reo
+2. Make your changes and check them in locally
+3. Create a patchfile using `format-patch`
+
+    git format-patch origin/master --stdout > submission.patch
+
+4. Email us the patch file
+
+Please don't fork this repo or submit pull requests ;-)
