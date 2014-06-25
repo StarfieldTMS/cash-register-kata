@@ -37,7 +37,7 @@ To run the tests:
 To Submit Code
 --------------
 
-1. Clone the reo
+1. Clone the repo
 2. Make your changes and check them in locally
 3. Create a patchfile using `format-patch`
 
